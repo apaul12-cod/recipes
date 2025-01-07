@@ -3,5 +3,5 @@ b.png
 c,png
 .gitignoire
 receipts/
-
+*.Rproject
 .Rproj.user
